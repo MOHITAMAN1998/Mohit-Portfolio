@@ -1,4 +1,4 @@
-import img from "../../assets/pic1.jpg"
+import img from "../../assets/MOHIT AMAN1.jpg"
 
 export default function HeroSection()
 {
