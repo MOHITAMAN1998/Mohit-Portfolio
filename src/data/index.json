@@ -1,0 +1,72 @@
+
+
+{
+    "skills": [
+      {
+        "id": 1,
+        "src": "nnee",
+        "title": "Front_End",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri"
+      },
+      {
+        "id": 2,
+        "src": "./assets/backendicon.jpg",
+        "title": "Back-End Developer",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri"
+      },
+      {
+        "id": 3,
+        "src": "./assets/ui_uxicon.png",
+        "title": "UI & UX Design",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri"
+      },
+      {
+        "id": 4,
+        "src": "./assets/c++icon.png",
+        "title": "C++",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri"
+      },
+      {
+        "id": 5,
+        "src": "./assets/andriodicon.png",
+        "title": "Android Developer",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri"
+      }
+    ],
+
+    "portfolio": [
+      {
+        "id": 1,
+        "src": "./assets/voterproject1.jpg",
+        "title": "Voting Boot",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri",
+        "link":"View In Github"
+      },
+      {
+        "id": 2,
+        "src": "./assets/voterproject1.jpg",
+        "title": "Back-End Developer",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri"
+      },
+      {
+        "id": 3,
+        "src": "./assets/voterproject1.jpg",
+        "title": "UI & UX Design",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri",
+        "link":"View In Github"      },
+      {
+        "id": 4,
+        "src": "./assets/voterproject1.jpg",
+        "title": "C++",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri",
+        "link":"View In Github"      },
+      {
+        "id": 5,
+        "src": "./assets/voterproject1.jpg",
+        "title": "Android Developer",
+        "description": "lorem ipsum dolaor sit amet, consectetur adipiscing elit.suspermisds various ein in eros elements tri",
+        "link":"View In Github"      
+      }
+    ]
+  }
+  
