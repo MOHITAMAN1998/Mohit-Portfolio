@@ -7,12 +7,12 @@ import Footer from "../Footer";
 export default function Home()
 {
     return (
-        <>
+        <div style={{display:"fixed"}}>
         <HeroSection/>
         <MySkills/>
         <AboutMe/>
         <Myportfolio/>
         <Footer/>
-       </>
+       </div>
     )
 }

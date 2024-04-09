@@ -1,4 +1,4 @@
-import img from "../../assets/MOHIT AMAN1.jpg";
+import img from "../../assets/MOHIT_AMAN.png";
 
 export default function HeroSection() {
     return (
@@ -18,8 +18,21 @@ export default function HeroSection() {
                 <a href="https://github.com/MOHITAMAN1998/resume" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Resume</a>
             </div>
             <div className="hero--section--img">
-                <img src={img} alt="Hero Section" />
+            <img
+                src={img}
+                style={{
+                borderRadius: "500px",
+                boxShadow: "2px 5px 15px rgba(0, 0, 0, 0.5)",
+                maxWidth: "100%",
+                height: "auto",
+                "@media (max-width: 768px)": {
+                    maxWidth: "50%", 
+                }
+                }}
+                alt="Hero Section"
+            />
             </div>
+
         </section>
     );
 }
